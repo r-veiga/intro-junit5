@@ -1,3 +1,7 @@
+
+## Forkeado a mi cuenta r-veiga desde springframeworkguru/intro-junit5 el 2019.03.31
+Para seguir el curso de John Thompson, *springframeworkguru*, sobre testeo en Spring MVC, copio el código de ejemplo.
+
 # Introduction to JUnit 5 with Maven
 
 All source code examples in the repository are for my [Online Course - Testing Spring Beginner to Guru](https://www.udemy.com/testing-spring-boot-beginner-to-guru/?couponCode=GITHUB_REPO)
